@@ -10,5 +10,6 @@ public class MinhaClasse {
 
     public static String userFullName(String userName, String userForename) {
         return "O Resultado do método é: ".concat(userName.concat(" ").concat(userForename));
+
     }
 }
